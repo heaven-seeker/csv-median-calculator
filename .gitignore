@@ -1,0 +1,17 @@
+build/
+cmake-build-*/
+out/
+.cache/
+
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.user
+.vscode/
+
+data/input/massive_trade.csv
+data/output/
+
+*.exe
+*.out
